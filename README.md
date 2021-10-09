@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Trillion1953
+- 👋 Hi, I’m Mandar Yevale
 - 👀 I’m interested in cloud computing
 - 🌱 I’m currently learning MCA
-- 💞️ I’m looking to collaborate on cloud
-- 📫 How to reach me ...
 
 <!---
 Trillion1953/Trillion1953 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
